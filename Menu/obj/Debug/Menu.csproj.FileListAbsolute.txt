@@ -1,0 +1,45 @@
+C:\Users\92347\Desktop\OOP\Projects\Student Record System\Menu\bin\Debug\Menu.exe.config
+C:\Users\92347\Desktop\OOP\Projects\Student Record System\Menu\bin\Debug\Menu.exe
+C:\Users\92347\Desktop\OOP\Projects\Student Record System\Menu\bin\Debug\Menu.pdb
+C:\Users\92347\Desktop\OOP\Projects\Student Record System\Menu\obj\Debug\Menu.csprojResolveAssemblyReference.cache
+C:\Users\92347\Desktop\OOP\Projects\Student Record System\Menu\obj\Debug\Menu.Properties.Resources.resources
+C:\Users\92347\Desktop\OOP\Projects\Student Record System\Menu\obj\Debug\Menu.csproj.GenerateResource.Cache
+C:\Users\92347\Desktop\OOP\Projects\Student Record System\Menu\obj\Debug\Menu.exe
+C:\Users\92347\Desktop\OOP\Projects\Student Record System\Menu\obj\Debug\Menu.pdb
+C:\Users\92347\Desktop\OOP\Projects\Student Record System\Menu\obj\Debug\Menu.PAL.LoadRecord.resources
+C:\Users\92347\Desktop\OOP\Projects\Student Record System\Menu\obj\Debug\Menu.Menu.resources
+C:\Users\92347\Desktop\OOP\Projects\Student Record System\Menu\obj\Debug\Menu.PAL.AddRecord.resources
+C:\Users\92347\Desktop\OOP\Projects\Student Record System\Menu\obj\Debug\Menu.PAL.DeleteRecord.resources
+C:\Users\92347\Desktop\OOP\Projects\Student Record System\Menu\obj\Debug\Menu.PAL.UpdateRecord.resources
+C:\Users\faiza\Desktop\Visual Projects\Student Record System\Menu\bin\Debug\Menu.exe.config
+C:\Users\faiza\Desktop\Visual Projects\Student Record System\Menu\obj\Debug\Menu.exe
+C:\Users\faiza\Desktop\Visual Projects\Student Record System\Menu\obj\Debug\Menu.pdb
+C:\Users\faiza\Desktop\Visual Projects\Student Record System\Menu\bin\Debug\Menu.exe
+C:\Users\faiza\Desktop\Visual Projects\Student Record System\Menu\bin\Debug\Menu.pdb
+C:\Users\faiza\Desktop\Visual Projects\Student Record System\Menu\obj\Debug\Menu.csprojResolveAssemblyReference.cache
+C:\Users\faiza\Desktop\Visual Projects\Student Record System\Menu\obj\Debug\Menu.PAL.AddRecord.resources
+C:\Users\faiza\Desktop\Visual Projects\Student Record System\Menu\obj\Debug\Menu.PAL.DeleteRecord.resources
+C:\Users\faiza\Desktop\Visual Projects\Student Record System\Menu\obj\Debug\Menu.Menu.resources
+C:\Users\faiza\Desktop\Visual Projects\Student Record System\Menu\obj\Debug\Menu.PAL.LoadRecord.resources
+C:\Users\faiza\Desktop\Visual Projects\Student Record System\Menu\obj\Debug\Menu.PAL.Search.resources
+C:\Users\faiza\Desktop\Visual Projects\Student Record System\Menu\obj\Debug\Menu.PAL.UpdateRecord.resources
+C:\Users\faiza\Desktop\Visual Projects\Student Record System\Menu\obj\Debug\Menu.Properties.Resources.resources
+C:\Users\faiza\Desktop\Visual Projects\Student Record System\Menu\obj\Debug\Menu.csproj.GenerateResource.Cache
+C:\Users\92347\Desktop\OOP\Student Record System\Menu\bin\Debug\Menu.exe.config
+C:\Users\92347\Desktop\OOP\Student Record System\Menu\obj\Debug\Menu.exe
+C:\Users\92347\Desktop\OOP\Student Record System\Menu\obj\Debug\Menu.pdb
+C:\Users\Mayo\Desktop\Desktop\OOP\Final Projects\Student Record System\Menu\bin\Debug\Menu.exe.config
+C:\Users\Mayo\Desktop\Desktop\OOP\Final Projects\Student Record System\Menu\bin\Debug\Menu.exe
+C:\Users\Mayo\Desktop\Desktop\OOP\Final Projects\Student Record System\Menu\bin\Debug\Menu.pdb
+C:\Users\Mayo\Desktop\Desktop\OOP\Final Projects\Student Record System\Menu\obj\Debug\Menu.csproj.AssemblyReference.cache
+C:\Users\Mayo\Desktop\Desktop\OOP\Final Projects\Student Record System\Menu\obj\Debug\Menu.PAL.AddRecord.resources
+C:\Users\Mayo\Desktop\Desktop\OOP\Final Projects\Student Record System\Menu\obj\Debug\Menu.PAL.DeleteRecord.resources
+C:\Users\Mayo\Desktop\Desktop\OOP\Final Projects\Student Record System\Menu\obj\Debug\Menu.Menu.resources
+C:\Users\Mayo\Desktop\Desktop\OOP\Final Projects\Student Record System\Menu\obj\Debug\Menu.PAL.LoadRecord.resources
+C:\Users\Mayo\Desktop\Desktop\OOP\Final Projects\Student Record System\Menu\obj\Debug\Menu.PAL.Search.resources
+C:\Users\Mayo\Desktop\Desktop\OOP\Final Projects\Student Record System\Menu\obj\Debug\Menu.PAL.UpdateRecord.resources
+C:\Users\Mayo\Desktop\Desktop\OOP\Final Projects\Student Record System\Menu\obj\Debug\Menu.Properties.Resources.resources
+C:\Users\Mayo\Desktop\Desktop\OOP\Final Projects\Student Record System\Menu\obj\Debug\Menu.csproj.GenerateResource.cache
+C:\Users\Mayo\Desktop\Desktop\OOP\Final Projects\Student Record System\Menu\obj\Debug\Menu.csproj.CoreCompileInputs.cache
+C:\Users\Mayo\Desktop\Desktop\OOP\Final Projects\Student Record System\Menu\obj\Debug\Menu.exe
+C:\Users\Mayo\Desktop\Desktop\OOP\Final Projects\Student Record System\Menu\obj\Debug\Menu.pdb
